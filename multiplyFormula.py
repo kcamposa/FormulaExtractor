@@ -1,4 +1,3 @@
-#lector de excel
 import openpyxl
 
 results = []
